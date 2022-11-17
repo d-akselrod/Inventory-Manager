@@ -1,0 +1,41 @@
+E:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\bin\Debug\AmazonInventoryManager.exe.config
+E:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\bin\Debug\AmazonInventoryManager.exe
+E:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\bin\Debug\AmazonInventoryManager.pdb
+E:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.FrmAmazonInventoryManager.resources
+E:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.Properties.Resources.resources
+E:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.csproj.GenerateResource.cache
+E:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.csproj.CoreCompileInputs.cache
+E:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.exe
+E:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.pdb
+D:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\bin\Debug\AmazonInventoryManager.exe.config
+D:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\bin\Debug\AmazonInventoryManager.exe
+D:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\bin\Debug\AmazonInventoryManager.pdb
+D:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.FrmAmazonInventoryManager.resources
+D:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.Properties.Resources.resources
+D:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.csproj.GenerateResource.Cache
+D:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.csproj.CoreCompileInputs.cache
+D:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.exe
+D:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.pdb
+E:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.csprojAssemblyReference.cache
+D:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.csprojAssemblyReference.cache
+F:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\bin\Debug\AmazonInventoryManager.exe.config
+F:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\bin\Debug\AmazonInventoryManager.exe
+F:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\bin\Debug\AmazonInventoryManager.pdb
+F:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.csproj.AssemblyReference.cache
+F:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.FrmAmazonInventoryManager.resources
+F:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.Properties.Resources.resources
+F:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.csproj.GenerateResource.cache
+F:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.csproj.CoreCompileInputs.cache
+F:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.exe
+F:\ISC4U\Assignments\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.pdb
+C:\Users\Dakse\OneDrive - McMaster University\Personal Projects\C# Projects\Grade 12\A2\AmazonInventoryManager\AmazonInventoryManager\bin\Debug\AmazonInventoryManager.exe.config
+C:\Users\Dakse\OneDrive - McMaster University\Personal Projects\C# Projects\Grade 12\A2\AmazonInventoryManager\AmazonInventoryManager\bin\Debug\AmazonInventoryManager.exe
+C:\Users\Dakse\OneDrive - McMaster University\Personal Projects\C# Projects\Grade 12\A2\AmazonInventoryManager\AmazonInventoryManager\bin\Debug\AmazonInventoryManager.pdb
+C:\Users\Dakse\OneDrive - McMaster University\Personal Projects\C# Projects\Grade 12\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.csproj.AssemblyReference.cache
+C:\Users\Dakse\OneDrive - McMaster University\Personal Projects\C# Projects\Grade 12\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dakse\OneDrive - McMaster University\Personal Projects\C# Projects\Grade 12\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.FrmAmazonInventoryManager.resources
+C:\Users\Dakse\OneDrive - McMaster University\Personal Projects\C# Projects\Grade 12\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.Properties.Resources.resources
+C:\Users\Dakse\OneDrive - McMaster University\Personal Projects\C# Projects\Grade 12\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.csproj.GenerateResource.cache
+C:\Users\Dakse\OneDrive - McMaster University\Personal Projects\C# Projects\Grade 12\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.csproj.CoreCompileInputs.cache
+C:\Users\Dakse\OneDrive - McMaster University\Personal Projects\C# Projects\Grade 12\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.exe
+C:\Users\Dakse\OneDrive - McMaster University\Personal Projects\C# Projects\Grade 12\A2\AmazonInventoryManager\AmazonInventoryManager\obj\Debug\AmazonInventoryManager.pdb
